@@ -1,0 +1,32 @@
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.exe
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.deps.json
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.runtimeconfig.json
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.dll
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.pdb
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.Form1.resources
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.csproj.GenerateResource.cache
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.AssemblyInfoInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.AssemblyInfo.cs
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.dll
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\refint\ConsumodeAPIs.dll
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.pdb
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.genruntimeconfig.cache
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ref\ConsumodeAPIs.dll
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.exe
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.deps.json
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.runtimeconfig.json
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.dll
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\bin\Debug\net9.0-windows\ConsumodeAPIs.pdb
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.Form1.resources
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.csproj.GenerateResource.cache
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.AssemblyInfoInputs.cache
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.AssemblyInfo.cs
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.csproj.CoreCompileInputs.cache
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.dll
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\refint\ConsumodeAPIs.dll
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.pdb
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ConsumodeAPIs.genruntimeconfig.cache
+C:\Users\leone\Downloads\ConsumodeAPIs\ConsumodeAPIs\ConsumodeAPIs\obj\Debug\net9.0-windows\ref\ConsumodeAPIs.dll
